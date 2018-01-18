@@ -1,0 +1,19 @@
+{
+  "name": "newproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "bundle": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.20.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
